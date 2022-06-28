@@ -30,16 +30,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Work/Training/FizzBuzz",
+    "last_opened_file_path": "C:/Program Files/nodejs/node.exe",
     "nodejs_package_manager_path": "npm",
     "ts.external.directory.path": "C:\\Work\\Training\\FizzBuzz\\node_modules\\typescript\\lib"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+    <configuration name="start 3 5" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="start" />
-      <node-interpreter value="project" />
+      <arguments value="3 5" />
+      <node-interpreter value="$PROJECT_DIR$/../../../Program Files/nodejs/node" />
       <envs />
       <method v="2" />
     </configuration>
@@ -52,7 +53,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656335312967</updated>
-      <workItem from="1656335314341" duration="4599000" />
+      <workItem from="1656335314341" duration="5280000" />
+      <workItem from="1656400033051" duration="1505000" />
+      <workItem from="1656401560776" duration="181000" />
+      <workItem from="1656402321594" duration="6817000" />
     </task>
     <servers />
   </component>
